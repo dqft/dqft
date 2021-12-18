@@ -1,0 +1,4 @@
+```sh
+> ./greetings
+👋 Hello, world.
+```
