@@ -1,7 +1,8 @@
 # Analyse approfondie - Symptomatologie neuro-musculo-squelettique du membre superieur droit
 
 **Date de creation** : 13 avril 2026
-**Statut** : En cours - En attente de reponses aux questions de clarification
+**Statut** : En cours - Reponses partielles recues (lot 1/N)
+**Derniere mise a jour** : 13 avril 2026
 
 ---
 
@@ -11,8 +12,8 @@
 
 | Symptome | Detail | Chronologie |
 |----------|--------|-------------|
-| Hyperlaxite articulaire | Terrain constitutionnel | Pre-existant |
-| Subluxation durant le sommeil | Articulation a preciser | ~5 mois (novembre 2025) |
+| Hyperlaxite articulaire | Terrain constitutionnel, 2e subluxation a 42 ans (progression) | Pre-existant |
+| Subluxation durant le sommeil | **Epaule droite** - reduction difficile (plusieurs secondes de mouvements, douleur intense). 1er episode plus tot dans la vie (reduction instantanee) | ~5 mois (novembre 2025) |
 | Douleur axillaire droite | Haut de l'aisselle, jonction aisselle-bras droit | Depuis la subluxation |
 | Contractures musculaires | Cervicales -> omoplate -> avant-bras droit | Progression post-subluxation |
 | Engourdissement index droit | Main droite, doigt index | Accompagne les contractures |
@@ -288,12 +289,29 @@ La litterature confirme : "Unless perpetuating factors are specifically addresse
 
 ---
 
-## 6. Questions de clarification posees (en attente de reponses)
+## 6. Reponses aux questions de clarification
 
-### Sur la subluxation
-1. Quelle articulation s'est subluxee durant le sommeil ? L'epaule droite ?
-2. La subluxation s'est-elle reduite spontanement ou avez-vous du intervenir ?
-3. Avez-vous eu des subluxations ou luxations auparavant ?
+### Lot 1 - Sur la subluxation (repondu le 13/04/2026)
+
+| Question | Reponse | Implication clinique |
+|----------|---------|---------------------|
+| 1. Quelle articulation ? | **Epaule droite** | Confirme la coherence anatomique avec tous les symptomes droits |
+| 2. Reduction spontanee ? | **Non** - plusieurs secondes de mouvements pendant le sommeil pour remettre en place, avec douleur intense | Subluxation significative avec traction prolongee sur les structures nerveuses (nerf axillaire, plexus brachial). Duree = facteur aggravant majeur |
+| 3. Antecedents ? | **Oui** - 2e episode a 42 ans. 1er episode = bref, reduction instantanee | Instabilite glenoumerale progressive sur terrain hyperlaxe. La 2e subluxation plus difficile a reduire = laxite capsulaire qui s'aggrave |
+
+#### Analyse des reponses - Lot 1
+
+**Element determinant** : La duree de la subluxation (plusieurs secondes, mouvements pour remettre en place) est un facteur critique. Pendant ce temps :
+
+1. Le nerf axillaire, qui passe juste sous la capsule inferieure de l'epaule, a subi une **traction directe** par la tete humerale deplacee
+2. Les branches du plexus brachial dans la region axillaire ont potentiellement ete comprimees ou etirees
+3. Le nerf intercostobrachial a pu etre comprime par le deplacement des structures adjacentes
+
+La litterature indique que le nerf axillaire est le nerf le plus frequemment lese lors des luxations/subluxations glenoumerales, meme quand la reduction est rapide. Avec une reduction prolongee et douloureuse, le risque de lesion nerveuse est significativement accru.
+
+**Progression de l'instabilite** : Le passage d'un 1er episode (reduction instantanee) a un 2e episode (reduction difficile) a 42 ans sur terrain hyperlaxe traduit une **degenerescence capsulo-ligamentaire progressive**. Cela renforce l'hypothese SDT car cette instabilite force les muscles stabilisateurs a surcompenser en permanence.
+
+### Lot 2+ - Questions restantes (en attente)
 
 ### Sur l'hyperlaxite
 4. Avez-vous un diagnostic formel (SED, trouble du spectre de l'hypermobilite) ?
